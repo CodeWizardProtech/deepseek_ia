@@ -1,3 +1,4 @@
+
 # Ollama DeepSeek-R1 Local Machine Guide
 
 This repository provides instructions for setting up Ollama with the DeepSeek-R1 model for local LLM interactions. This setup serves as a foundation for Python script integration and n8n workflow automation.
