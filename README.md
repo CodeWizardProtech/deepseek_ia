@@ -85,9 +85,10 @@ Browse additional models in the [Ollama DeepSeek Library](https://ollama.com/lib
 
 - [X] [Python script integration](./python/README.md)
 - [x] [n8n workflow automation](./n8n/README.md)
+- [x] [https://openwebui.com/)
 
 ## Community & Support
 
 - [Join Ollama Discord](https://discord.gg/ollama)
-- [Follow on Twitter](https://twitter.com/ollama_ai)
+- [----------------------------------------------)
 - [Official Documentation](https://ollama.ai/docs)
