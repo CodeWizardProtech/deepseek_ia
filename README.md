@@ -56,6 +56,7 @@ The DeepSeek-R1 7B model will be automatically downloaded and loaded when the co
    - OpenWeb UI: <http://localhost:3000>
    - n8n Dashboard: <http://localhost:5678>
    - Qdrant Dashboard: <http://localhost:6333/dashboard>
+     
 
 To stop the containers:
 
@@ -87,6 +88,8 @@ Browse additional models in the [Ollama DeepSeek Library](https://ollama.com/lib
 - [X] [Python script integration](./python/README.md)
 - [x] [n8n workflow automation](./n8n/README.md)
 - [x] [https://openwebui.com/)
+- [x] [https://lmstudio.ai/)
+- [x] [Ollama: https://ollama.com/)
 
 ## Community & Support
 
